@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+resources的使用
+
+resoureces就是res目录下的那些目录和文件，常用的有：
+res/drawable/ 用来存放图片文件
+res/layout/ 用来存放布局定义文件
+res/values/ 用来存放一些变量、参数等文件
+-->
+    <resources>
+        <string-array name="hobby">
+            <item>游泳</item>
+            <item>打篮球</item>
+            <item>登山</item>
+        </string-array>
+</resources>
